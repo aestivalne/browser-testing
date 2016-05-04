@@ -6,7 +6,7 @@ Institute for Community Inclusion
 School for Global Inclusion and Social Development  
 University of Massachusetts Boston**
 
-<p><a href="a11y-browser-coburn.pptx"><strong>Download the PowerPoint</strong></a></p>
+<p><a href="https://github.com/coburnicus/browser-testing/blob/master/a11y-browser-coburn.pptx?raw=true"><strong>Download the PowerPoint</strong></a></p>
 
 ## Why should we develop web surveys and pages with accessibility in mind?
 
