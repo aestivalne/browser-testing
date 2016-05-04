@@ -6,6 +6,8 @@ Institute for Community Inclusion
 School for Global Inclusion and Social Development  
 University of Massachusetts Boston**
 
+<p><a href="a11y-browser-coburn.pptx"><strong>Download the PowerPoint</strong></a></p>
+
 ## Why should we develop web surveys and pages with accessibility in mind?
 
 Because we are not monsters.
@@ -52,7 +54,7 @@ Until the United States Access Board can work through whatever writers block the
 The preview versions of the 508 Refresh are currently bad cover songs of WCAG 2.0
 
 ##What does the WCAG 2.0 say?
-https://www.w3.org/WAI/WCAG20/quickref/
+https://www.w3.org/WAI/WCAG20/quickref/  
 http://webaim.org/standards/wcag/checklist
 
 It says says you web pages and apps should be:
