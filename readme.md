@@ -85,7 +85,7 @@ It says says you web pages and apps should be:
 
 **Browser/device Emulators**
  - Browser simulators (BrowserStack) https://www.browserstack.com/  
-![BrowserStack](https://d98b8t1nnulk5.cloudfront.net/production/images/static/header/header-logo.svg?1462450257)
+![BrowserStack](https://www.browserstack.com/images/layout/browserstack-logo-600x315.png)
 
 
 ## Let's test against these standards
