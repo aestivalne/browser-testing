@@ -82,9 +82,10 @@ It says says you web pages and apps should be:
  - Web Developer Toolbar http://chrispederick.com/work/web-developer/
  - Specialized testing Tools (color blindness simulators) https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll/related?hl=en
  - Screen Reader (simulators) http://www.chromevox.com/
- - Browser simulators (BrowserStack) https://www.browserstack.com/
 
-
+**Browser/device Emulators**
+ - Browser simulators (BrowserStack) https://www.browserstack.com/  
+ <img src="bs-logo.svg" alt="BrowserStack">
 
 
 ## Let's test against these standards
@@ -118,4 +119,4 @@ Test: Does it work with a screenreader
 Use: ChromeVox to simulate a screenreader
 
 Test: Does it work on IE 8 or Android 4.8.56.38.58?
-Use: Emulators like browserstack.com
+Use: Emulators like https://browserstack.com
