@@ -57,7 +57,7 @@ The preview versions of the 508 Refresh are currently bad cover songs of WCAG 2.
 https://www.w3.org/WAI/WCAG20/quickref/  
 http://webaim.org/standards/wcag/checklist
 
-It says says you web pages and apps should be:
+It says says your web pages and apps should be:
 
 **Perceivable**
 - You can detect what is there, and what it's purpose is, using your senses.
